@@ -12,6 +12,10 @@ A pcb to make IH cooking heater as a I2C device.
 - 1k and 2k resistors
 - XH Connector 1x5 and 1x2
 
+# License
+
+MIT
+
 # Reference
 
 - [Arduino Nano Rev3.2](https://www.arduino.cc/en/uploads/Main/Arduino_Nano-Rev3.2-SCH.pdf)
